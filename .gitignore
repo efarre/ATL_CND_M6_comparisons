@@ -1,0 +1,11 @@
+
+# Data and results folders #
+##########################
+
+Data
+Results
+
+#jupyter file#
+##############
+
+.ipynb_checkpoints/
